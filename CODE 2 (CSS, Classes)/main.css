@@ -1,0 +1,33 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 15px;
+  font-family: Arial;
+}
+h1{
+  font-family: Oswald;
+  color: red;
+  font-weight: lighter;
+  font-size: 60px;
+}
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 30px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+<style> 
+  .bleu {
+    color: blueviolet;
+    font-weight: bold;
+  }
+</style>
